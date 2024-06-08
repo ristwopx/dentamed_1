@@ -1,0 +1,230 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.dentist {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    border-bottom: 5px solid #FFFFFF;
+}
+
+.dentist:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.adr-2 {
+    color: #50C878
+}
+
+.btn {
+    text-transform: uppercase;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+
+.btn-1 {
+    text-decoration: none;
+    color: black;
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-2 {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-1:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-2:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-3:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-4:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-5:hover {
+    border-bottom: 5px solid #50C878;
+}
+
+.btn-3 {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-4 {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-5 {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 10px solid #50C878;
+}
+
+.adr-1 {
+    text-transform: uppercase;
+}
+
+.pribor {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 0px;
+    border: 5px solid black; 
+}
+
+.klinika {
+    background-color: #50C878;
+}
+
+.pribors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 0px;
+}
+
+.klinika_info {
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.klinika_text {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pribors_names {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 0px;
+}
+
+.pribor_name {
+    width: 300px;
+    border: 5px solid black;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-top: 10px solid #50C878;
+    align-items: center;
+}
+
+.tg_img {
+    width: 40px;
+    height: 40px;
+}
+
+.inst_img {
+    width: 40px;
+    height: 40px;
+}
+
+.whats_img {
+    width: 40px;
+    height: 40px;
+}
+
+.soc_net_title {
+    list-style-type: none;
+}
+
+.dentist1 {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+.dentist1:hover {
+    text-decoration: underline;
+}
+
+.workers {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.workers-title {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.workers-img-1 {
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    width: 270px;
+    height: 380px;
+}
+
+.workers-img-2 {
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    width: 270px;
+    height: 380px;
+}
+
+.workers-img-3 {
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    width: 270px;
+    height: 380px;
+}
+
+.workers-img-4 {
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    width: 270px;
+    height: 380px;
+}
+
+.workers-imgs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.workers-names {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.workers-name {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    width: 270px;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+}
